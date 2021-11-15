@@ -9,3 +9,4 @@ This project should include the follwing:
 
 Here are the screenshot and link to My Portfolio:
 https://cmerrym1.github.io/my-portfolio/
+![my-portfolio](/images/my-portfolio.jpg) 
